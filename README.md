@@ -3,7 +3,7 @@ This is a simple go program which will bestow the gift of drama upon neighboring
 
 1. Scan your network (entered in CIDR) for IPP/AirPrint/RAW/LPD open hosts.
 2. Give you a list of discovered open print queues.
-3. Upon request, dend a PDF from its local directory at random to each discovered print queue.
+3. Upon request, send a PDF from its local directory at random to each discovered print queue.
 
 The PDFs are intended to be recovered by whomever next passes the printer, and (hopefully) read aloud, dramatically. A spontaneous play nobody wanted but everyone will appreciate.
 
